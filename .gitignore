@@ -1,1 +1,4 @@
 *.DS_Store
+/public/vendor/
+/public/.env
+/public/composer.lock
